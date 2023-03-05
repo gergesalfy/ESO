@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Camera &#8211; ESO</title>
+	<atom:link href="https://gergesalfy.github.io/ESO/product-tag/camera/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gergesalfy.github.io/ESO</link>
+	<description></description>
+	<lastBuildDate>Fri, 03 Mar 2023 19:43:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://gergesalfy.github.io/ESO/wp-content/uploads/2022/08/brand4.png</url>
+	<title>Camera &#8211; ESO</title>
+	<link>https://gergesalfy.github.io/ESO</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Digital Camera</title>
+		<link>https://gergesalfy.github.io/ESO/product/digital-camera/</link>
+					<comments>https://gergesalfy.github.io/ESO/product/digital-camera/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 03 Jan 2023 07:45:36 +0000</pubDate>
+				<guid isPermaLink="false">https://demo.bosathemes.com/bosa/ecommerce-shop/?post_type=product&#038;p=393</guid>
+
+					<description><![CDATA[<ul class="a-unordered-list a-vertical a-spacing-mini">
+ 	<li><span class="a-list-item">Choose how you see the world, and pick the lens that matches your style: Choose just the right lens from Sony's extensive range of E-mount lenses, and bring your vlog to the next level with stunning and unique imagery.</span></li>
+ 	<li><span class="a-list-item">A large-format image sensor for professional-quality images: The ZV-E10's impressive images are the result of the camera's large APS-C sized image sensor. Compared to a smartphone camera, the image sensor of the ZV-E10 is more than ten times bigger, allowing for beautiful, professional-looking images with high resolution and intricate detail.</span></li>
+ 	<li><span class="a-list-item">Efficient light collection for high-quality images with minimal noise: The ZV-E10's large-format image sensor is designed to maximise light collection, producing 4K movies with high-quality images with less noise even when you're shooting in a dimly lit setting.</span></li>
+ 	<li><span class="a-list-item">Instant access to control buttons: When you're shooting a vlog session the last thing you want to do is fumble for buttons. With the ZV-E10 you'll find the MOVIE button right on top, for quick access.</span></li>
+ 	<li><span class="a-list-item">Designed for easy selfie and vlog shoots: Weighing in at just 364 grams (12.8 ounces), the ZV-E10 is ready to hit the road with you whenever you’re ready to vlog.</span></li>
+ 	<li><span class="a-list-item">4K video with oversampling for greater detail: The camera's internal 4K video recordings are made using a full-pixel readout from the sensor, allowing the collection of approximately 2.4 times as much data as is required for 4K (roughly equivalent to 6K).</span></li>
+ 	<li><span class="a-list-item">Let Real-time Tracking do the focusing work for you: The ZV-E10's AI-driven14 Real-time Tracking is intuitive to use. Simply touch the monitor to indicate the subject you want to focus on and Real-time Tracking will take it from there, keeping a steady hold on the subject.</span></li>
+</ul>
+<div class="a-row a-expander-container a-expander-inline-container">
+<div class="a-expander-content a-expander-extend-content a-expander-content-expanded" aria-expanded="true">
+<ul class="a-unordered-list a-vertical a-spacing-none">
+ 	<li><span class="a-list-item">Fast, precise autofocus: Even quick-moving subjects stay in focus thanks to the ZV-E10's Fast Hybrid AF system. With 425 phase-detection points covering around 84% of the sensor's image area, this wide coverage and dense AF point placement help to precisely capture subjects that might otherwise be difficult to focus on.</span></li>
+ 	<li><span class="a-list-item">Protection against recording failures: The ZV-E10 tells you at a glance that whether or not you are recording. A recording lamp on the front of the camera lights up in red, and the LCD monitor also displays a bold red frame, letting you know when recording is in progress.</span></li>
+ 	<li><span class="a-list-item">Precise focus transitions for smooth-looking product reviews: With just the press of a button, you can activate the ZV-E10's Product Showcase Setting, ideal for product review videos. With the setting activated, whenever you hold a product up in front of the camera the focus will shift automatically to that object, and then back to your face again when you move the product out of frame. This setting is available even when image stabilisation is set to Active.</span></li>
+</ul>
+</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<table class="a-normal a-spacing-micro">
+<tbody>
+<tr class="a-spacing-small po-brand">
+<td class="a-span3"><span class="a-size-base a-text-bold">Brand</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">Sony</span></td>
+</tr>
+<tr class="a-spacing-small po-model_name">
+<td class="a-span3"><span class="a-size-base a-text-bold">Model name</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">ZV-E10L</span></td>
+</tr>
+<tr class="a-spacing-small po-form_factor">
+<td class="a-span3"><span class="a-size-base a-text-bold">Form factor</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">Compact</span></td>
+</tr>
+<tr class="a-spacing-small po-effective_still_resolution">
+<td class="a-span3"><span class="a-size-base a-text-bold">Effective still resolution</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">24.2 MP</span></td>
+</tr>
+<tr class="a-spacing-small po-special_feature">
+<td class="a-span3"><span class="a-size-base a-text-bold">Special features</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">Suitable for Vlogging</span></td>
+</tr>
+<tr class="a-spacing-small po-optical_zoom">
+<td class="a-span3"><span class="a-size-base a-text-bold">Optical zoom</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">4 x</span></td>
+</tr>
+<tr class="a-spacing-small po-color">
+<td class="a-span3"><span class="a-size-base a-text-bold">Colour</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">Black</span></td>
+</tr>
+<tr class="a-spacing-small po-connectivity_technology">
+<td class="a-span3"><span class="a-size-base a-text-bold">Connectivity technology</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">Bluetooth</span></td>
+</tr>
+<tr class="a-spacing-small po-display.size">
+<td class="a-span3"><span class="a-size-base a-text-bold">Screen size</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">3 Inches</span></td>
+</tr>
+<tr class="a-spacing-small po-item_weight">
+<td class="a-span3"><span class="a-size-base a-text-bold">Item weight</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">343 Grams</span></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gergesalfy.github.io/ESO/product/digital-camera/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>DSLR Camera</title>
+		<link>https://gergesalfy.github.io/ESO/product/dslr-camera/</link>
+					<comments>https://gergesalfy.github.io/ESO/product/dslr-camera/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 03 Jan 2023 07:43:48 +0000</pubDate>
+				<guid isPermaLink="false">https://demo.bosathemes.com/bosa/ecommerce-shop/?post_type=product&#038;p=390</guid>
+
+					<description><![CDATA[<ul class="a-unordered-list a-vertical a-spacing-mini">
+ 	<li><span class="a-list-item">Country of origin ‏ : ‎ China</span></li>
+ 	<li><span class="a-list-item">Brand: Canon</span></li>
+ 	<li><span class="a-list-item">Step up to effortless DSLR storytelling</span></li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">24. Megapixel Aps-C sensor and digic 8 processor &#8211; for superb image quality, even in low light</span></li>
+<li><span class="a-list-item">Optical Viewfinder &#8211; See Things As They Really Are – Clear And Simple</span></li>
+<li><span class="a-list-item">24. 1Mp Photos And 4K Movies, Clear, Sharp, And Packed With Colour Even In Low Light Thanks To An Aps-C Sensor, Powerful Autofocus, Digic 8 With Digital Lens Optimizer</span></li>
+<li><span class="a-list-item">Dual pixel CMOS af and vari-angle screen</span></li>
+<li><span class="a-list-item">Canon EOS 250D + Canon EF-s 18-55mm f/4-5.6 IS STM lens &#8211; Black</span></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gergesalfy.github.io/ESO/product/dslr-camera/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Laptop &#8211; ESO</title>
+	<atom:link href="https://gergesalfy.github.io/ESO/product-tag/laptop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gergesalfy.github.io/ESO</link>
+	<description></description>
+	<lastBuildDate>Fri, 03 Mar 2023 11:52:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://gergesalfy.github.io/ESO/wp-content/uploads/2022/08/brand4.png</url>
+	<title>Laptop &#8211; ESO</title>
+	<link>https://gergesalfy.github.io/ESO</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Notebook</title>
+		<link>https://gergesalfy.github.io/ESO/product/notebook/</link>
+					<comments>https://gergesalfy.github.io/ESO/product/notebook/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 03 Jan 2023 06:43:34 +0000</pubDate>
+				<guid isPermaLink="false">https://demo.bosathemes.com/bosa/ecommerce-shop/?post_type=product&#038;p=133</guid>
+
+					<description><![CDATA[<ul class="a-unordered-list a-vertical a-spacing-mini">
+ 	<li><span class="a-list-item">Lenovo IdeaPad 3 15IML05 Laptop - 10th Gen Intel Core i3-10110U, 4GB RAM, 1TB HDD, Intel UHD Graphics,  15.6" FHD (1920x1080) TN 220nits Anti-glare, Dos - Platinum Grey</span></li>
+ 	<li><span class="a-list-item">Lenovo IdeaPad 3 15IML05 Laptop - 10th Gen Intel Core i3-10110U, 4GB RAM, 1TB HDD, Intel UHD Graphics,  15.6' FHD (1920x1080) TN 220nits Anti-glare, Dos - Platinum Grey</span></li>
+ 	<li><span class="a-list-item">Easy to use</span></li>
+ 	<li><span class="a-list-item">Good material for customer</span></li>
+ 	<li><span class="a-list-item">High Quality</span></li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<div class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" aria-expanded="true">
+<div class="a-section a-spacing-small a-spacing-top-small">
+<table class="a-normal a-spacing-micro">
+<tbody>
+<tr class="a-spacing-small po-brand">
+<td class="a-span3"><span class="a-size-base a-text-bold">Brand</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">Notebook</span></td>
+</tr>
+<tr class="a-spacing-small po-model_name">
+<td class="a-span3"><span class="a-size-base a-text-bold">Series</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">IdeaPad 3 15IML05 &#8211; 81WB010CAX</span></td>
+</tr>
+<tr class="a-spacing-small po-display.size">
+<td class="a-span3"><span class="a-size-base a-text-bold">Screen size</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">15.6 Inches</span></td>
+</tr>
+<tr class="a-spacing-small po-color">
+<td class="a-span3"><span class="a-size-base a-text-bold">Colour</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">Grey</span></td>
+</tr>
+<tr class="a-spacing-small po-hard_disk.size">
+<td class="a-span3"><span class="a-size-base a-text-bold">Hard disk size</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">1 TB</span></td>
+</tr>
+<tr class="a-spacing-small po-cpu_model.family">
+<td class="a-span3"><span class="a-size-base a-text-bold">CPU model</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">Core i3-10110U</span></td>
+</tr>
+<tr class="a-spacing-small po-ram_memory.installed_size">
+<td class="a-span3"><span class="a-size-base a-text-bold">Installed RAM memory size</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">4 GB</span></td>
+</tr>
+<tr class="a-spacing-small po-operating_system">
+<td class="a-span3"><span class="a-size-base a-text-bold">Operating System</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">DOS</span></td>
+</tr>
+<tr class="a-spacing-small po-graphics_description">
+<td class="a-span3"><span class="a-size-base a-text-bold">Graphics card description</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">Integrated</span></td>
+</tr>
+<tr class="a-spacing-small po-cpu_model.speed">
+<td class="a-span3"><span class="a-size-base a-text-bold">CPU speed</span></td>
+<td class="a-span9"><span class="a-size-base po-break-word">2100 MHz</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="poToggleButton" class="a-expander-header a-expander-partial-collapse-header"></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gergesalfy.github.io/ESO/product/notebook/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Stand Keyboard</title>
+		<link>https://gergesalfy.github.io/ESO/product/stand-keyboard/</link>
+					<comments>https://gergesalfy.github.io/ESO/product/stand-keyboard/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 03 Jan 2023 06:41:27 +0000</pubDate>
+				<guid isPermaLink="false">https://demo.bosathemes.com/bosa/ecommerce-shop/?post_type=product&#038;p=124</guid>
+
+					<description><![CDATA[Smooth rounded edges, polished finish, stylish designed for any decor,especially suited for minimalist interiors The ergonomic acrylic monitor riser gives you a very comfortable position, match eye-level, reduce strain on neck, back, shoulder and eyes The ergonomic keyboard stand with low front lip on the end, holds your keyboard perfectly and eliminate tension from the wrists,forearms and elbows One-piece acrylic [&#8230;]]]></description>
+										<content:encoded><![CDATA[<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Smooth rounded edges, polished finish, stylish designed for any decor,especially suited for minimalist interiors</span></li>
+<li><span class="a-list-item">The ergonomic acrylic monitor riser gives you a very comfortable position, match eye-level, reduce strain on neck, back, shoulder and eyes</span></li>
+<li><span class="a-list-item">The ergonomic keyboard stand with low front lip on the end, holds your keyboard perfectly and eliminate tension from the wrists,forearms and elbows</span></li>
+<li><span class="a-list-item">One-piece acrylic monitor stand riser with additional storage space underneath to store full-size keyboard &amp; mice and above for knickknacks, minimizes the messy clutter and saves desktop space</span></li>
+<li><span class="a-list-item">Monitor Stand Dimensions: 20.5&#8243;W x 3.5&#8243;H x 8&#8243;D; Keyboard Stand Dimensions: 17&#8243;W x 1.5&#8243;H x 5.5&#8243;D</span></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gergesalfy.github.io/ESO/product/stand-keyboard/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lenevo Laptop</title>
+		<link>https://gergesalfy.github.io/ESO/product/lenevo-laptop/</link>
+					<comments>https://gergesalfy.github.io/ESO/product/lenevo-laptop/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 03 Jan 2023 06:40:52 +0000</pubDate>
+				<guid isPermaLink="false">https://demo.bosathemes.com/bosa/ecommerce-shop/?post_type=product&#038;p=123</guid>
+
+					<description><![CDATA[&#160; Brand : LenovoVideo Controller Manufacturer : AMDGraphics Card Capacity : Shared &#8211; Built inMemory Card Reader : YesKeyboard Languages : English and ArabicTouch screen : NoUsage : Multi Good Quality with a high end Lenovo IdeaPad L340 Laptop &#8211; AMD Ryzen 3 3200U, 4GB RAM, 1TB HDD, 15.6 inch HD, Integrated AMD Radeon Vega 3 Graphics, DOS &#8211; Black [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<div id="ppd">
+<div id="centerCol" class="centerColAlign ">
+<div id="featurebullets_feature_div" class="celwidget" data-feature-name="featurebullets" data-csa-c-type="widget" data-csa-c-content-id="featurebullets" data-csa-c-slot-id="featurebullets_feature_div" data-csa-c-asin="B093WXRF7J" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="hmd6qq-kvzcqh-d14cs4-quzp58" data-cel-widget="featurebullets_feature_div">
+<div id="feature-bullets" class="a-section a-spacing-medium a-spacing-top-small">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Brand : LenovoVideo Controller Manufacturer : AMDGraphics Card Capacity : Shared &#8211; Built inMemory Card Reader : YesKeyboard Languages : English and ArabicTouch screen : NoUsage : Multi</span></li>
+<li><span class="a-list-item">Good Quality with a high end</span></li>
+<li><span class="a-list-item">Lenovo IdeaPad L340 Laptop &#8211; AMD Ryzen 3 3200U, 4GB RAM, 1TB HDD, 15.6 inch HD, Integrated AMD Radeon Vega 3 Graphics, DOS &#8211; Black</span></li>
+<li><span class="a-list-item">Easy to use</span></li>
+<li><span class="a-list-item">Personal Computer type</span></li>
+</ul>
+</div>
+</div>
+<div id="provenanceCertifications_feature_div" class="celwidget" data-feature-name="provenanceCertifications" data-csa-c-type="widget" data-csa-c-content-id="provenanceCertifications" data-csa-c-slot-id="provenanceCertifications_feature_div" data-csa-c-asin="B093WXRF7J" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="ao24hb-sxhmzl-m8yn97-w6n4wo" data-cel-widget="provenanceCertifications_feature_div"></div>
+<div id="globalStoreInfoBullets_feature_div" class="celwidget" data-feature-name="globalStoreInfoBullets" data-csa-c-type="widget" data-csa-c-content-id="globalStoreInfoBullets" data-csa-c-slot-id="globalStoreInfoBullets_feature_div" data-csa-c-asin="B093WXRF7J" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="a1wd82-wg1sg5-fp0y0h-6glyrv" data-cel-widget="globalStoreInfoBullets_feature_div"></div>
+<div id="addOnItem_feature_div" class="celwidget" data-feature-name="addOnItem" data-csa-c-type="widget" data-csa-c-content-id="addOnItem" data-csa-c-slot-id="addOnItem_feature_div" data-csa-c-asin="B093WXRF7J" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="eeds8q-ykj3xr-rp2s2u-yrv4qt" data-cel-widget="addOnItem_feature_div"></div>
+<div id="andonCord_feature_div" class="celwidget" data-feature-name="andonCord" data-csa-c-type="widget" data-csa-c-content-id="andonCord" data-csa-c-slot-id="andonCord_feature_div" data-csa-c-asin="B093WXRF7J" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="h120fs-wea8wn-naj2z0-md3w8h" data-cel-widget="andonCord_feature_div"></div>
+<div id="edpIngress_feature_div" class="celwidget" data-feature-name="edpIngress" data-csa-c-type="widget" data-csa-c-content-id="edpIngress" data-csa-c-slot-id="edpIngress_feature_div" data-csa-c-asin="B093WXRF7J" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="x0p620-wmd6qj-kxqahf-vml5sv" data-cel-widget="edpIngress_feature_div"></div>
+<div id="cpsiaProductSafetyWarningIntlATF_feature_div" class="celwidget" data-feature-name="cpsiaProductSafetyWarningIntlATF" data-csa-c-type="widget" data-csa-c-content-id="cpsiaProductSafetyWarningIntlATF" data-csa-c-slot-id="cpsiaProductSafetyWarningIntlATF_feature_div" data-csa-c-asin="B093WXRF7J" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="bj25ll-xf5k1r-kj8px5-lc8f7o" data-cel-widget="cpsiaProductSafetyWarningIntlATF_feature_div"></div>
+<div id="originalPackagingMessage_feature_div" class="celwidget" data-feature-name="originalPackagingMessage" data-csa-c-type="widget" data-csa-c-content-id="originalPackagingMessage" data-csa-c-slot-id="originalPackagingMessage_feature_div" data-csa-c-asin="B093WXRF7J" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="1x629s-s45m8-ch4z3i-i28bab" data-cel-widget="originalPackagingMessage_feature_div"></div>
+<div id="newerVersion_feature_div" class="celwidget" data-feature-name="newerVersion" data-csa-c-type="widget" data-csa-c-content-id="newerVersion" data-csa-c-slot-id="newerVersion_feature_div" data-csa-c-asin="B093WXRF7J" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="3hcgu5-xjmu8m-gwvzw0-l543yp" data-cel-widget="newerVersion_feature_div"></div>
+<div id="whiteGloveMessage_feature_div" class="celwidget" data-feature-name="whiteGloveMessage" data-csa-c-type="widget" data-csa-c-content-id="whiteGloveMessage" data-csa-c-slot-id="whiteGloveMessage_feature_div" data-csa-c-asin="B093WXRF7J" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="hf9xul-c3vut0-pkll76-2d94ap" data-cel-widget="whiteGloveMessage_feature_div"></div>
+<div id="productAlert_feature_div" class="celwidget" data-feature-name="productAlert" data-csa-c-type="widget" data-csa-c-content-id="productAlert" data-csa-c-slot-id="productAlert_feature_div" data-csa-c-asin="B093WXRF7J" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="ad7rad-fxwpug-gxowoj-ryxega" data-cel-widget="productAlert_feature_div"></div>
+<div id="vendorPoweredCoupon_feature_div" class="celwidget" data-feature-name="vendorPoweredCoupon" data-csa-c-type="widget" data-csa-c-content-id="vendorPoweredCoupon" data-csa-c-slot-id="vendorPoweredCoupon_feature_div" data-csa-c-asin="B093WXRF7J" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="rle6x8-4gzkf-k86s2x-jdx2w7" data-cel-widget="vendorPoweredCoupon_feature_div"></div>
+</div>
+<div id="hqpWrapper" class="centerColAlign ">
+<div id="heroQuickPromo_feature_div" class="celwidget" data-feature-name="heroQuickPromo" data-csa-c-type="widget" data-csa-c-content-id="heroQuickPromo" data-csa-c-slot-id="heroQuickPromo_feature_div" data-csa-c-asin="B093WXRF7J" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="64hem0-f8jlca-j4hhyx-893nkw" data-cel-widget="heroQuickPromo_feature_div">
+<div id="hero-quick-promo-grid_feature_div"></div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gergesalfy.github.io/ESO/product/lenevo-laptop/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

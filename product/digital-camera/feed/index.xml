@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Digital Camera	</title>
+	<atom:link href="https://gergesalfy.github.io/ESO/product/digital-camera/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gergesalfy.github.io/ESO/product/digital-camera/</link>
+	<description></description>
+	<lastBuildDate>Fri, 03 Mar 2023 19:43:54 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: botros		</title>
+		<link>https://gergesalfy.github.io/ESO/product/digital-camera/#comment-14</link>
+
+		<dc:creator><![CDATA[botros]]></dc:creator>
+		<pubDate>Fri, 03 Mar 2023 19:43:54 +0000</pubDate>
+		<guid isPermaLink="false">https://demo.bosathemes.com/bosa/ecommerce-shop/?post_type=product&#038;p=393#comment-14</guid>
+
+					<description><![CDATA[bad]]></description>
+			<content:encoded><![CDATA[<p>bad</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: admin		</title>
+		<link>https://gergesalfy.github.io/ESO/product/digital-camera/#comment-5</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 03 Mar 2023 12:01:14 +0000</pubDate>
+		<guid isPermaLink="false">https://demo.bosathemes.com/bosa/ecommerce-shop/?post_type=product&#038;p=393#comment-5</guid>
+
+					<description><![CDATA[good camera]]></description>
+			<content:encoded><![CDATA[<p>good camera</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

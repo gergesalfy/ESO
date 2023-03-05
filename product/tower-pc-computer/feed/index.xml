@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Tower PC Computer	</title>
+	<atom:link href="https://gergesalfy.github.io/ESO/product/tower-pc-computer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gergesalfy.github.io/ESO/product/tower-pc-computer/</link>
+	<description></description>
+	<lastBuildDate>Sat, 04 Mar 2023 18:48:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: felomina		</title>
+		<link>https://gergesalfy.github.io/ESO/product/tower-pc-computer/#comment-23</link>
+
+		<dc:creator><![CDATA[felomina]]></dc:creator>
+		<pubDate>Sat, 04 Mar 2023 18:48:51 +0000</pubDate>
+		<guid isPermaLink="false">https://gergesalfy.github.io/ESO/product/tower-pc-computer/#comment-23</guid>
+
+					<description><![CDATA[good]]></description>
+			<content:encoded><![CDATA[<p>good</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
